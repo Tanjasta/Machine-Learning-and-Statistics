@@ -8,7 +8,7 @@ This repository features two Jupyter Notebooks that highlight various aspects of
 
 **tasks.ipynb:** A collection of tasks demonstrating various data manipulation and analysis techniques using Python.
 
-**project.ipynb:** * An analysis of the Iris dataset, including a machine learning model using the K-Nearest Neighbors (KNN) algorithm.
+**project.ipynb:** An analysis of the Iris dataset, including a machine learning model using the K-Nearest Neighbors (KNN) algorithm.
 
 #### Prerequisites
 
